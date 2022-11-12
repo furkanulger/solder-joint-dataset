@@ -8,4 +8,3 @@ The dataset is obtained from passive SMDs, and ICs solder joints on PCBs. Solder
 | Insufficient | 149 |
 | Shifted comp. | 114 |
 | Short | 300 |
-| Face down comp. | 22 |
